@@ -13,4 +13,3 @@
 // %c Prints a single character.
 // %s Prints a string (as defined by the common C convention).
 // %% Prints a percent sign
-
